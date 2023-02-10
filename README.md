@@ -2,10 +2,6 @@
 
 <img src="https://user-images.githubusercontent.com/123706497/217834514-8479c987-b2d5-4bdb-885f-3641440f2686.jpg" width="220">
 
-| Twitter | [Jess_Goebel](https://twitter.com/Jess_Goebel) |
-| ---: | :--- |
-| **Email** | **jsg6312@nyu.edu** |
-
 Hello! I’m Jess and I’m a first year PhD student at NYU. I am a Sociolinguist who is interested in bilingualism, especially in the German-English context. More about my research interests:
 
 ### Bilingualism
