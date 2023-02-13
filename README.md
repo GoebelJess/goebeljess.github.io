@@ -8,10 +8,10 @@ Hello! I’m Jess and I’m a first year PhD student at NYU. I am a Sociolinguis
 
 My research examines linguistic variation among multilingual speakers using sociolinguistic and psycholinguistic methods. I am interested the social and cognitive factors that affect language variability. During my Master’s degree at Queen Mary University of London, I investigated how cognitive load (or divided attention) affects bilingual style shifting and style control, under the supervision of [Dr Kathleen McCarthy](https://www.qmul.ac.uk/sllf/linguistics/people/academic/profiles/mccarthy.html).
 
-I firmly believe that bilingualism should be celebrated and that speaking multiple languages a gift. One of the fundamental endeavors of my research is to highlight the inherent value of being bilingual, and deconstructing monolingual language ideologies by examining the patterning of linguistic variation among bilinguals. 
+I firmly believe that bilingualism should be celebrated and that speaking multiple languages a gift. One of the fundamental endeavors of my research is to highlight the inherent value of being bilingual, and deconstructing monolingual language ideologies by studying the patterning of linguistic variation among bilinguals. 
 
 ### Social class
 
-Another one of my interests lies in examining social class effects on linguistic variation. My undergraduate dissertation at the University of Edinburgh examines how socially mobile speakers (individuals who had been upwardly socially mobile in their life) pattern differently from speakers whose social class had remained static. I was supervised by [Prof Lauren Hall-Lew](https://www.laurenhall-lew.com/). This research made me interested in improving operationalizations of socioeconomic status by treating social class as potentially fluid. A link to my research [here](http://journals.ed.ac.uk/lifespansstyles/article/view/5219). 
+Another one of my interests lies in analysing social class effects on linguistic variation. My undergraduate dissertation at the University of Edinburgh examines how socially mobile speakers (individuals who had been upwardly socially mobile in their life) pattern differently from speakers whose social class had remained static. I was supervised by [Prof Lauren Hall-Lew](https://www.laurenhall-lew.com/). This research made me interested in improving operationalizations of socioeconomic status by treating social class as potentially fluid. A link to my research [here](http://journals.ed.ac.uk/lifespansstyles/article/view/5219). 
 
 
