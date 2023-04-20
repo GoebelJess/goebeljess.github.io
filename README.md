@@ -13,6 +13,6 @@ I firmly believe that bilingualism should be celebrated and that speaking multip
 ### Social class
 
 Another one of my interests lies in analysing social class effects on linguistic variation. My undergraduate dissertation at the University of Edinburgh examines how socially mobile speakers (individuals who had been upwardly socially mobile in their life) pattern differently from speakers whose social class had remained static. I was supervised by [Prof Lauren Hall-Lew](https://www.laurenhall-lew.com/). This research made me interested in improving operationalizations of socioeconomic status by treating social class as potentially fluid. A link to my research [here](http://journals.ed.ac.uk/lifespansstyles/article/view/5219). 
-
+#
 Contact me at: jessica.goebel@nyu.edu
 
