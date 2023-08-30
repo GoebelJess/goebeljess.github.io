@@ -16,6 +16,8 @@ Another one of my interests lies in analysing social class effects on linguistic
 
 ### Publications
 
+<hr>
+
 <strong>Göbel Jessica</strong>, and McCarthy Kathleen. 2023. [The Impact of Cognitive Load on Speech Production in German-English Bilinguals](https://guarant.cz/icphs2023/150.pdf).  In: Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences (pp. 2427–2431). Guarant International.
 
 Hall-Lew Lauren, Elliott Zuzana, <strong>Göbel Jessica</strong>, Cowie Claire, and Markl Nina. 2023. [Variation in the Scottish BIT vowel: Comparing two corpora](https://guarant.cz/icphs2023/740.pdf). In: Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences (pp. 3681–3685). Guarant International.
