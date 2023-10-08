@@ -1,6 +1,6 @@
 # Jess Göbel
 
-<img src ="https://github.com/GoebelJess/goebeljess.github.io/blob/main/websitepic-Enhanced-.jpg" width="220">
+<img src ="https://github.com/GoebelJess/goebeljess.github.io/blob/main/websitepic-Enhanced-.jpg" width="260">
 
 Hello! I’m Jess and I’m a second year PhD student at NYU. I am a Sociolinguist who is interested in bilingualism, especially in the German-English context. More about my research interests:
 
