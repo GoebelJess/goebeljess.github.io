@@ -18,11 +18,11 @@ Another one of my interests lies in analysing social class effects on linguistic
 
 <hr>
 
-<strong>Göbel Jessica</strong>, and McCarthy Kathleen. 2023. [The Impact of Cognitive Load on Speech Production in German-English Bilinguals](https://guarant.cz/icphs2023/150.pdf).  In: Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences (pp. 2427–2431). Guarant International.
+<strong>Göbel Jessica</strong>, and McCarthy Kathleen. 2023. [The Impact of Cognitive Load on Speech Production in German-English Bilinguals](https://guarant.cz/icphs2023/150.pdf).  In: <i>Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences</i> (pp. 2427–2431). Guarant International.
 
-Hall-Lew Lauren, Elliott Zuzana, <strong>Göbel Jessica</strong>, Cowie Claire, and Markl Nina. 2023. [Variation in the Scottish BIT vowel: Comparing two corpora](https://guarant.cz/icphs2023/740.pdf). In: Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences (pp. 3681–3685). Guarant International.
+Hall-Lew Lauren, Elliott Zuzana, <strong>Göbel Jessica</strong>, Cowie Claire, and Markl Nina. 2023. [Variation in the Scottish BIT vowel: Comparing two corpora](https://guarant.cz/icphs2023/740.pdf). In: <i>Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences</i> (pp. 3681–3685). Guarant International.
 
-<strong>Göbel Jessica</strong>. 2020. [Don’t Glottal Stop Me Now: A Comparative Study of /t/-glottaling in Edinburgh English in the 1970s](http://journals.ed.ac.uk/lifespansstyles/article/view/5219/7262). Lifespans & Styles: Undergraduate Papers in Sociolinguistics. Volume 6, Issue 2. (pp. 32-43).
+<strong>Göbel Jessica</strong>. 2020. [Don’t Glottal Stop Me Now: A Comparative Study of /t/-glottaling in Edinburgh English in the 1970s](http://journals.ed.ac.uk/lifespansstyles/article/view/5219/7262). <i>Lifespans & Styles: Undergraduate Papers in Sociolinguistics. Volume 6, Issue 2</i> (pp. 32-43).
 
 ##### Contact me at: jessica.goebel@nyu.edu
 
