@@ -1,7 +1,7 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none; padding-right: 20px;">
-      <img src="https://raw.githubusercontent.com/GoebelJess/goebeljess.github.io/c0eca585e79c0b8c26ba7d1f6cdf2f6cfe89a2a0/wesbite%20pic.jpg" width="450">
+      <img src="https://raw.githubusercontent.com/GoebelJess/goebeljess.github.io/c0eca585e79c0b8c26ba7d1f6cdf2f6cfe89a2a0/wesbite%20pic.jpg" width="750">
     </td>
     <td style="border: none; font-size: 18px;">
       <strong>Hello!</strong> I’m Jess and I’m a third-year PhD student at NYU. I am a Sociolinguist who is interested in bilingualism, especially in the German-English context. More about my research interests:
