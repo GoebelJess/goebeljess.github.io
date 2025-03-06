@@ -1,13 +1,16 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none; padding-right: 20px;">
-      <img src="https://raw.githubusercontent.com/GoebelJess/goebeljess.github.io/c0eca585e79c0b8c26ba7d1f6cdf2f6cfe89a2a0/wesbite%20pic.jpg" width="300">
+      <img src="https://raw.githubusercontent.com/GoebelJess/goebeljess.github.io/c0eca585e79c0b8c26ba7d1f6cdf2f6cfe89a2a0/wesbite%20pic.jpg" width="450">
     </td>
     <td style="border: none; font-size: 18px;">
       <strong>Hello!</strong> I’m Jess and I’m a third-year PhD student at NYU. I am a Sociolinguist who is interested in bilingualism, especially in the German-English context. More about my research interests:
     </td>
   </tr>
 </table>
+
+### Bilingualism
+
 
 ### Bilingualism
 My research examines linguistic variation among multilingual speakers using sociolinguistic and psycholinguistic methods. I am interested the social and cognitive factors that affect language variability. During my Master’s degree at Queen Mary University of London, I investigated how cognitive load (or divided attention) affects bilingual style shifting and style control, under the supervision of [Dr Kathleen McCarthy](https://www.qmul.ac.uk/sllf/linguistics/people/academic/profiles/mccarthy.html). 
