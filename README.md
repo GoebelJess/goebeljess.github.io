@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/GoebelJess/goebeljess.github.io/c0eca585e79c0b8c26ba7d1f6cdf2f6cfe89a2a0/wesbite%20pic.jpg" width="220">
+<img src="https://raw.githubusercontent.com/GoebelJess/goebeljess.github.io/c0eca585e79c0b8c26ba7d1f6cdf2f6cfe89a2a0/wesbite%20pic.jpg" width="300">
 
 Hello! I’m Jess and I’m a third year PhD student at NYU. I am a Sociolinguist who is interested in bilingualism, especially in the German-English context. More about my research interests:
 
