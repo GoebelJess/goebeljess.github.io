@@ -1,9 +1,9 @@
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
-    <td style="border: none; padding-right: 20px; width: 40%;">
+    <td style="border: none; padding-right: 20px; width: 50%;">
       <img src="https://raw.githubusercontent.com/GoebelJess/goebeljess.github.io/c0eca585e79c0b8c26ba7d1f6cdf2f6cfe89a2a0/wesbite%20pic.jpg" style="width: 100%; max-width: 600px; border-radius: 50%;">
     </td>
-    <td style="border: none; font-size: 18px; width: 60%;">
+    <td style="border: none; font-size: 18px; width: 50%;">
       <strong>Hello!</strong> I’m Jess and I’m a third-year PhD student at NYU. I am a Sociolinguist who is interested in bilingualism, especially in the German-English context. More about my research interests:
     </td>
   </tr>
