@@ -4,15 +4,13 @@
       <img src="https://raw.githubusercontent.com/GoebelJess/goebeljess.github.io/0eff24459eaea56575abe60d2eb1f60dc694bbc8/CLL%20pic.jpg" style="width: 100%; max-width: 600px; border-radius: 50%;">
     </td>
     <td style="border: none; font-size: 18px; width: 65%;">
-      <strong>Hello!</strong> I’m Jess and I’m a third-year PhD student at NYU. I am a Sociolinguist who is interested in bilingualism, especially in the German-English context. More about my research interests:
+      <strong>Hello!</strong> I’m Jess and I’m a third-year PhD student at NYU. I am a Sociolinguist who is interested in bilingualism. More about my research interests:
     </td>
   </tr>
 </table>
 
 ### Bilingualism
 My research examines linguistic variation among multilingual speakers using sociolinguistic and psycholinguistic methods. I am interested the social and cognitive factors that affect language variability. During my Master’s degree at Queen Mary University of London, I investigated how cognitive load (or divided attention) affects bilingual style shifting and style control, under the supervision of [Dr Kathleen McCarthy](https://www.qmul.ac.uk/sllf/linguistics/people/academic/profiles/mccarthy.html). 
-
-I firmly believe that bilingualism should be celebrated and that speaking multiple languages a gift. One of the fundamental endeavors of my research is to highlight the inherent value of being bilingual, and deconstructing monolingual language ideologies by studying the patterning of linguistic variation among bilinguals. 
 
 ### Social class
 
