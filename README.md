@@ -4,7 +4,7 @@
       <img src="https://raw.githubusercontent.com/GoebelJess/goebeljess.github.io/0eff24459eaea56575abe60d2eb1f60dc694bbc8/CLL%20pic.jpg" style="width: 100%; max-width: 600px; border-radius: 50%;">
     </td>
     <td style="border: none; font-size: 18px; width: 65%;">
-      <strong>Hello!</strong> I’m Jess and I’m a third-year PhD student at NYU. I am a Sociolinguist who is interested in bilingualism, particularly in the German-English context. More about my research interests:
+      <strong>Hello!</strong> I’m Jess and I’m a fourth-year PhD student at NYU. I am a Sociolinguist who is interested in bilingualism, particularly in the German-English context. More about my research interests:
     </td>
   </tr>
 </table>
