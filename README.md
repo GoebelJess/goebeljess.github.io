@@ -2,7 +2,7 @@
   <tr>
     <td style="border: none; padding-right: 20px; width: 30%; vertical-align: top;">
       <img src="https://raw.githubusercontent.com/GoebelJess/goebeljess.github.io/0eff24459eaea56575abe60d2eb1f60dc694bbc8/CLL%20pic.jpg"
-           style="width: 100%; max-width: 320px; border-radius: 50%; display: block; margin-top: 4px;">
+           style="width: 100%; max-width: 400px; border-radius: 50%; display: block; margin-top: 4px;">
     </td>
     <td style="border: none; font-size: 18px; width: 70%; vertical-align: top;">
       <h2 style="margin-top: 0;"><strong>Welcome!</strong></h2>
