@@ -4,17 +4,28 @@
       <img src="https://raw.githubusercontent.com/GoebelJess/goebeljess.github.io/0eff24459eaea56575abe60d2eb1f60dc694bbc8/CLL%20pic.jpg" style="width: 100%; max-width: 600px; border-radius: 50%;">
     </td>
     <td style="border: none; font-size: 18px; width: 65%;">
-      <strong>Hello!</strong> I’m Jess and I’m a fourth-year PhD student at NYU. I am a Sociolinguist who is interested in bilingualism, particularly in the German-English context. More about my research interests:
-    </td>
-  </tr>
-</table>
+    <h2><strong>Welcome!</strong></h2> 
 
-### Bilingualism
-My research examines linguistic variation among multilingual speakers using sociolinguistic and psycholinguistic methods. I am interested the social and cognitive factors that affect language variability. During my Master’s degree at Queen Mary University of London, I investigated how cognitive load (or divided attention) affects bilingual style shifting and style control, under the supervision of [Dr Kathleen McCarthy](https://www.qmul.ac.uk/sllf/linguistics/people/academic/profiles/mccarthy.html). 
+<strong>Hi, I’m Jess,</strong> a fourth-year <strong>PhD student in Sociolinguistics at New York University.</strong> My research explores <strong>bilingual speech production</strong> and <strong>social perception</strong>, with a focus on how <strong>linguistic bias</strong> emerges and develops. My advisors are <a href="https://www.laurelmackenzie.com/" target="_blank"><strong>Prof. Laurel MacKenzie</strong></a> and <a href="https://wp.nyu.edu/cournane/" target="_blank"><strong>Prof. Ailís Cournane</strong></a>.  
 
-### Social class
+I draw on methods from <strong>sociolinguistics</strong>, <strong>psycholinguistics</strong>, and <strong>developmental social psychology</strong> to investigate what triggers linguistic bias in both adults and children. Using a developmental lens allows me to ask questions such as:  
+<ul>
+  <li>How do children learn to categorize people into social groups?</li>
+  <li>What are the developmental trajectories of accent bias?</li>
+  <li>Are judgements mitigated when a listener shares the same language group as the speaker being rated?</li>
+</ul>
 
-Another one of my interests lies in analysing social class effects on linguistic variation. My undergraduate dissertation at the University of Edinburgh examines how socially mobile speakers (individuals who had been upwardly socially mobile in their life) pattern differently from speakers whose social class had remained static. I was supervised by [Prof Lauren Hall-Lew](https://www.laurenhall-lew.com/). This research made me interested in improving operationalizations of socioeconomic status by treating social class as potentially fluid. 
+<hr>
+
+<h3><strong>Research Interests</strong></h3>
+
+<h4><strong>Bilingualism and Language Variation</strong></h4>
+I study both <strong>speech production</strong> and <strong>social perception</strong> of bilinguals. My work examines <strong>linguistic variability</strong> in multilingual speakers and the <strong>social perception of second language accents</strong>, focusing on how social and cognitive factors influence language use and listener judgments.  
+During my <strong>Master’s degree at Queen Mary University of London</strong>, I investigated how <strong>cognitive load</strong> (divided attention) affects bilingual <strong>style-shifting</strong> and <strong>style control</strong>, under the supervision of <a href="https://www.qmul.ac.uk/sllf/linguistics/people/academic/profiles/mccarthy.html" target="_blank"><strong>Dr. Kathleen McCarthy</strong></a>.
+
+<h4><strong>Social Class and Linguistic Variation</strong></h4>
+Another strand of my research explores how <strong>social class</strong> shapes linguistic behavior. For my <strong>undergraduate dissertation at the University of Edinburgh</strong>, supervised by <a href="https://www.laurenhall-lew.com/" target="_blank"><strong>Prof. Lauren Hall-Lew</strong></a>, I examined how <strong>socially mobile speakers</strong> (people who have experienced upward mobility) differ linguistically from speakers whose social class remained stable. This work sparked my interest in refining how researchers conceptualize and measure <strong>socioeconomic status</strong>, treating <strong>social class as a fluid, dynamic construct</strong> rather than a fixed category.
+
 
 ### Publications
 
