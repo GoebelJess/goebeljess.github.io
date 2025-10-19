@@ -1,10 +1,10 @@
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
-    <td style="border: none; padding-right: 20px; width: 34%; vertical-align: top;">
+    <td style="border: none; padding-right: 20px; width: 40%; vertical-align: top;">
       <img src="https://raw.githubusercontent.com/GoebelJess/goebeljess.github.io/0eff24459eaea56575abe60d2eb1f60dc694bbc8/CLL%20pic.jpg"
            style="width: 100%; max-width: 400px; border-radius: 50%; display: block; margin-top: 4px;">
     </td>
-    <td style="border: none; font-size: 18px; width: 66%; vertical-align: top;">
+    <td style="border: none; font-size: 18px; width: 60%; vertical-align: top;">
       <h2 style="margin-top: 0;"><strong>Welcome!</strong></h2>
 
 <p>Hi, I’m Jess, a fourth-year PhD student in Sociolinguistics at New York University. My research explores bilingual speech production and social perception, with a focus on how linguistic bias emerges and develops. My advisors are <a href="https://www.laurelmackenzie.com/" target="_blank">Prof. Laurel MacKenzie</a> and <a href="https://wp.nyu.edu/cournane/" target="_blank">Prof. Ailís Cournane</a>.</p>
