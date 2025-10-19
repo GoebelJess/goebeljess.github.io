@@ -10,29 +10,31 @@
 <p>Hi, I’m Jess, a fourth-year PhD student in Sociolinguistics at New York University. My research explores bilingual speech production and social perception, with a focus on how linguistic bias emerges and develops. My advisors are <a href="https://www.laurelmackenzie.com/" target="_blank">Prof. Laurel MacKenzie</a> and <a href="https://wp.nyu.edu/cournane/" target="_blank">Prof. Ailís Cournane</a>.</p>
 
 <p>I draw on methods from sociolinguistics, psycholinguistics, and developmental social psychology to investigate what triggers linguistic bias in both adults and children. Using a developmental lens allows me to ask questions such as:</p>
-
-<ul>
-        <li>How do children learn to categorize people into social groups?</li>
-        <li>What are the developmental trajectories of accent bias?</li>
-        <li>Are judgements mitigated when a listener shares the same language group as the speaker being rated?</li>
-      </ul>
     </td>
   </tr>
 </table>
 
+<!-- Bullet points moved below the image and table -->
+<ul style="font-size: 18px; margin-top: 10px;">
+  <li>How do children learn to categorize people into social groups?</li>
+  <li>What are the developmental trajectories of accent bias?</li>
+  <li>Are judgements mitigated when a listener shares the same language group as the speaker being rated?</li>
+</ul>
+
 <hr>
+
 
 <h3><strong>Research Interests</strong></h3>
 
-<h4><strong>Bilingualism and Language Variation</strong></h4>
+<h4><strong>Bilingualism</strong></h4>
 I study both speech production and social perception of bilinguals. My work examines linguistic variability in multilingual speakers and the social perception of second language accents, focusing on how social and cognitive factors influence language use and listener judgments.  
 During my Master’s degree at Queen Mary University of London, I investigated how cognitive load (divided attention) affects bilingual style-shifting and style control, under the supervision of <a href="https://www.qmul.ac.uk/sllf/linguistics/people/academic/profiles/mccarthy.html" target="_blank">Dr. Kathleen McCarthy</a>.
 
-<h4><strong>Social Class and Linguistic Variation</strong></h4>
+<h4><strong>Social Class</strong></h4>
 Another strand of my research explores how social class shapes linguistic behavior. For my undergraduate dissertation at the University of Edinburgh, supervised by <a href="https://www.laurenhall-lew.com/" target="_blank">Prof. Lauren Hall-Lew</a>, I examined how socially mobile speakers (people who have experienced upward mobility) differ linguistically from speakers whose social class remained stable. This work sparked my interest in refining how researchers conceptualize and measure socioeconomic status, treating social class as a fluid, dynamic construct rather than a fixed category.
 
 
-### Publications
+<h3><strong>Publications</strong></h3>
 
 <hr>
 
