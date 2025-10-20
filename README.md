@@ -1,27 +1,31 @@
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
-    <td style="border: none; padding-right: 20px; width: 40%; vertical-align: top;">
-      <img src="https://raw.githubusercontent.com/GoebelJess/goebeljess.github.io/0eff24459eaea56575abe60d2eb1f60dc694bbc8/CLL%20pic.jpg"
-           style="width: 100%; max-width: 400px; border-radius: 50%; display: block; margin-top: 4px;">
+    <td style="border: none; padding-right: 20px; width: 40%; vertical-align: middle;">
+      <img
+        src="https://raw.githubusercontent.com/GoebelJess/goebeljess.github.io/0eff24459eaea56575abe60d2eb1f60dc694bbc8/CLL%20pic.jpg"
+        style="width: 100%; max-width: 400px; border-radius: 50%; display: block; margin: 0 auto;">
     </td>
-    <td style="border: none; font-size: 18px; width: 60%; vertical-align: top;">
-      <h2 style="margin-top: 0;"><strong>Welcome!</strong></h2>
-
-<p>Hi, I’m Jess, a fourth-year PhD student in Sociolinguistics at New York University. My research explores bilingual speech production and social perception, with a focus on how linguistic bias emerges and develops. My advisors are <a href="https://www.laurelmackenzie.com/" target="_blank">Prof. Laurel MacKenzie</a> and <a href="https://wp.nyu.edu/cournane/" target="_blank">Prof. Ailís Cournane</a>.</p>
-
-<p>I draw on methods from sociolinguistics, psycholinguistics, and developmental social psychology to investigate what triggers linguistic bias in both adults and children. Using a developmental lens allows me to ask questions such as:</p>
+    <td style="border: none; font-size: 18px; width: 60%; vertical-align: middle; padding-left: 6px;">
+      <h2 style="margin: 0 0 8px 0;"><strong>Welcome!</strong></h2>
+      <p style="margin: 0 0 12px 0; line-height: 1.45;">
+        Hi, I’m Jess, a fourth-year PhD student in Sociolinguistics at New York University. My research explores bilingual speech production and social perception, with a focus on how linguistic bias emerges and develops. My advisors are <a href="https://www.laurelmackenzie.com/" target="_blank">Prof. Laurel MacKenzie</a> and <a href="https://wp.nyu.edu/cournane/" target="_blank">Prof. Ailís Cournane</a>.
+      </p>
+      <p style="margin: 0 0 8px 0; line-height: 1.45;">
+        I draw on methods from sociolinguistics, psycholinguistics, and developmental social psychology to investigate what triggers linguistic bias in both adults and children. Using a developmental lens allows me to ask questions such as:
+      </p>
+      <ul style="margin: 8px 0 0 20px; padding: 0; line-height: 1.45;">
+        <li>How do children learn to categorize people into social groups?</li>
+        <li>What are the developmental trajectories of accent bias?</li>
+        <li>Are judgements mitigated when a listener shares the same language group as the speaker being rated?</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-<!-- Bullet points moved below the image and table -->
-<ul style="font-size: 18px; margin-top: 10px;">
-  <li>How do children learn to categorize people into social groups?</li>
-  <li>What are the developmental trajectories of accent bias?</li>
-  <li>Are judgements mitigated when a listener shares the same language group as the speaker being rated?</li>
-</ul>
+<hr style="margin-top: 18px;">
 
 <hr>
+
 
 
 <h3><strong>Research Interests</strong></h3>
