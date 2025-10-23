@@ -11,22 +11,18 @@
         Hi, I’m Jess, a fourth-year PhD student in Sociolinguistics at New York University. My research explores bilingual speech production and social perception, with a focus on how linguistic bias emerges and develops. My advisors are <a href="https://www.laurelmackenzie.com/" target="_blank">Prof. Laurel MacKenzie</a> and <a href="https://wp.nyu.edu/cournane/" target="_blank">Prof. Ailís Cournane</a>.
       </p>
       <p style="margin: 0 0 8px 0; line-height: 1.45;">
-        I draw on methods from sociolinguistics, psycholinguistics, and developmental social psychology to investigate what triggers linguistic bias in both adults and children. Using a developmental lens allows me to ask questions such as:
+        I draw on methods from sociolinguistics, psycholinguistics, and developmental social psychology to investigate accent bias. Using a developmental lens allows me to ask questions such as:
       </p>
       <ul style="margin: 8px 0 0 20px; padding: 0; line-height: 1.45;">
-        <li>How do children learn to categorize people into social groups?</li>
-        <li>What are the developmental trajectories of accent bias?</li>
-        <li>Are judgements mitigated when a listener shares the same language group as the speaker being rated?</li>
+         <li>What factors trigger linguistic bias in adults and children?</li>
+  <li>How can studying children shed light on the development of accent bias?</li>
+  <li>What role does group membership play in shaping linguistic judgments?</li>
       </ul>
     </td>
   </tr>
 </table>
 
 <hr style="margin-top: 18px;">
-
-<hr>
-
-
 
 <h3><strong>Research Interests</strong></h3>
 
