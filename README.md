@@ -37,9 +37,9 @@ Another one of my research interests is exploring how social class shapes lingui
 
 <hr>
 
-Ismael, Akil, and <strong>Jessica Göbel</strong>. (Forthcoming). The clause-medial vP phase is real: Evidence from Moselle Franconian. In: <em>Proceedings of the Fifty-Fifth Annual Meeting of the North East Linguistic Society (NELS 55), Volume One</em>.
-
 Cutler, Molly, Auromita (Disha) Mitra, Marc Barnard, Valentina Cojocaru, <strong>Jessica Göbel</strong>, and Laurel MacKenzie. (Forthcoming). Both (of) the variants show a couple (of) different patterns: Social conditioning of of-variation across multiple linguistic environments. In: <em>U. Penn Working Papers in Linguistics</em>, 31.2.
+
+Ismael, Akil, and <strong>Jessica Göbel</strong>. (2025). The clause-medial vP phase is real: Evidence from Moselle Franconian. In: <em>Proceedings of the Fifty-Fifth Annual Meeting of the North East Linguistic Society (NELS 55), Volume Two</em>.
 
 <strong>Göbel, Jessica</strong>, and Kathleen McCarthy. (2023). <a href="https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/150.pdf">The impact of cognitive load on speech production in German-English bilinguals</a>. In: <em>Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences</em> (pp. 2427–2431). Guarant International.
 
