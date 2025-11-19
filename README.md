@@ -1,10 +1,10 @@
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
     <td style="border: none; padding-right: 20px; width: 40%; vertical-align: middle;">
-      <img
-        src="https://github.com/GoebelJess/goebeljess.github.io/blob/main/pro-headshot-5.jpg"
-        style="width: 100%; max-width: 400px; border-radius: 50%; display: block; margin: 0 auto;">
-    </td>
+     <img
+  src="https://raw.githubusercontent.com/GoebelJess/goebeljess.github.io/main/pro-headshot-5.jpg?v=1"
+  style="width: 100%; max-width: 400px; border-radius: 50%; display: block; margin: 0 auto;">
+</td>
     <td style="border: none; font-size: 18px; width: 60%; vertical-align: middle; padding-left: 6px;">
       <h2 style="margin: 0 0 8px 0;"><strong>Welcome!</strong></h2>
       <p style="margin: 0 0 12px 0; line-height: 1.45;">
