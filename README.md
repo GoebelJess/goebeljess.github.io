@@ -8,7 +8,7 @@
     <td style="border: none; font-size: 18px; width: 60%; vertical-align: middle; padding-left: 6px;">
       <h2 style="margin: 0 0 8px 0;"><strong>Welcome!</strong></h2>
       <p style="margin: 0 0 12px 0; line-height: 1.45;">
-        Hi, I’m Jess, a fourth-year PhD student in Sociolinguistics at New York University. My research explores bilingual speech production and social perception, with a focus on how linguistic bias emerges and develops. My advisors are <a href="https://www.laurelmackenzie.com/" target="_blank">Prof. Laurel MacKenzie</a> and <a href="https://wp.nyu.edu/cournane/" target="_blank">Prof. Ailís Cournane</a>.
+        Hi, I’m Jess (she/her), a fourth-year PhD student in Sociolinguistics at New York University. My research explores bilingual speech production and social perception, with a focus on how linguistic bias emerges and develops. My advisors are <a href="https://www.laurelmackenzie.com/" target="_blank">Prof. Laurel MacKenzie</a> and <a href="https://wp.nyu.edu/cournane/" target="_blank">Prof. Ailís Cournane</a>.
       </p>
       <p style="margin: 0 0 8px 0; line-height: 1.45;">
         I draw on methods from sociolinguistics, psycholinguistics, and developmental social psychology to investigate accent bias. Using a developmental lens allows me to ask questions such as:
