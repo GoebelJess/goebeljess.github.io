@@ -37,6 +37,8 @@ Another one of my research interests is exploring how social class shapes lingui
 
 <hr>
 
+<strong>Göbel, Jessica</strong>. (In press). What triggers linguistic bias against second-language accents? Examining the roles of accent strength, language, and group membership. In:  <em>Journal of Multilingual and Multicultural Development</em>, doi: https://doi.org/10.1080/01434632.2026.2669586
+
 Cutler, Molly, Auromita (Disha) Mitra, Marc Barnard, Valentina Cojocaru, <strong>Jessica Göbel</strong>, and Laurel MacKenzie. (2025). <a href="https://repository.upenn.edu/server/api/core/bitstreams/f32b4028-eb8c-48ec-bd69-2c1228a5f188/content">Both (of) the variants show a couple (of) different patterns: Social conditioning of of-variation across multiple linguistic environments</a>. In: <em>U. Penn Working Papers in Linguistics</em>, 31.2.
 
 Ismael, Akil, and <strong>Jessica Göbel</strong>. (2025). The clause-medial vP phase is real: Evidence from Moselle Franconian. In: <em>Proceedings of the Fifty-Fifth Annual Meeting of the North East Linguistic Society (NELS 55), Volume Two</em> (pp. 1-11).
