@@ -55,11 +55,14 @@ Another one of my research interests is exploring how social class shapes lingui
     In: <em>U. Penn Working Papers in Linguistics</em>, 31.2.
   </li>
 
-  <li>
-    Ismael, Akil, and <strong>Jessica Göbel</strong>. (2025).
-    The clause-medial vP phase is real: Evidence from Moselle Franconian.
-    In: <em>Proceedings of the Fifty-Fifth Annual Meeting of the North East Linguistic Society (NELS 55), Volume Two</em> (pp. 1–11).
-  </li>
+ <li>
+  Ismael, Akil, and <strong>Jessica Göbel</strong>. (2025).
+  The clause-medial vP phase is real: Evidence from Moselle Franconian
+  (<a href="https://raw.githubusercontent.com/GoebelJess/goebeljess.github.io/main/Ismael%20and%20G%C3%B6bel%202025%20preprint.pdf">
+    preprint PDF
+  </a>).
+  In: <em>Proceedings of the Fifty-Fifth Annual Meeting of the North East Linguistic Society (NELS 55), Volume Two</em> (pp. 1–11).
+</li>
 
   <li>
     <strong>Göbel, Jessica</strong>, and Kathleen McCarthy. (2023).
