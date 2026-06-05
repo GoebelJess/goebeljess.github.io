@@ -32,6 +32,7 @@ I study both speech production and perception of bilinguals. My work examines li
 <h4><strong>Social Class</strong></h4>
 Another one of my research interests is exploring how social class shapes linguistic behavior. For my undergraduate dissertation at the University of Edinburgh, supervised by <a href="https://www.laurenhall-lew.com/" target="_blank">Prof. Lauren Hall-Lew</a>, I examined how socially mobile speakers (people who have experienced upward mobility) differ linguistically from speakers whose social class remained stable. This work sparked my interest in refining how researchers operationalize socioeconomic status by treating social class as a fluid, dynamic construct rather than a fixed category.
 
+<hr style="margin-top: 18px;">
 
 <h3><strong>Publications</strong></h3>
 
