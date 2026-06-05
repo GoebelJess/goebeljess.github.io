@@ -49,7 +49,7 @@ Both (of) the variants show a couple (of) different patterns: Social conditionin
 <p> [4] Ismael, Akil, and <strong>Jessica Göbel</strong>. (2025).
 The clause-medial vP phase is real: Evidence from Moselle Franconian
 (<a href="https://raw.githubusercontent.com/GoebelJess/goebeljess.github.io/main/Ismael%20and%20G%C3%B6bel%202025%20preprint.pdf">
-preprint PDF</a>).
+preprint PDF</a> ).
 <em>Proceedings of the Fifty-Fifth Annual Meeting of the North East Linguistic Society (NELS 55), Volume Two</em>, 1–11.</p>
 
 <p> [3] <strong>Göbel, Jessica</strong>, and Kathleen McCarthy. (2023).
