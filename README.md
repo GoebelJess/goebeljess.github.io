@@ -36,34 +36,34 @@ Another one of my research interests is exploring how social class shapes lingui
 
 <h3><strong>Publications</strong></h3>
 
-<p> [6] <strong>Göbel, Jessica</strong>. (2026).
+<p> <strong>Göbel, Jessica</strong>. (2026).
 <a href="https://doi.org/10.1080/01434632.2026.2669586">
 What triggers linguistic bias against second-language accents? Examining the roles of accent strength, language, and group membership</a>.
 <em>Journal of Multilingual and Multicultural Development</em>, 1–24.</p>
 
-<p> [5] Cutler, Molly, Auromita (Disha) Mitra, Marc Barnard, Valentina Cojocaru,
+<p> Cutler, Molly, Auromita (Disha) Mitra, Marc Barnard, Valentina Cojocaru,
 <strong>Jessica Göbel</strong>, and Laurel MacKenzie. (2025).
 <a href="https://repository.upenn.edu/server/api/core/bitstreams/f32b4028-eb8c-48ec-bd69-2c1228a5f188/content">
 Both (of) the variants show a couple (of) different patterns: Social conditioning of of-variation across multiple linguistic environments</a>.
 <em>U. Penn Working Papers in Linguistics</em>, 31(2).</p>
 
-<p> [4] Ismael, Akil, and <strong>Jessica Göbel</strong>. (2025).
+<p> Ismael, Akil, and <strong>Jessica Göbel</strong>. (2025).
 The clause-medial vP phase is real: Evidence from Moselle Franconian
 (<a href="https://raw.githubusercontent.com/GoebelJess/goebeljess.github.io/main/Ismael%20and%20G%C3%B6bel%202025%20preprint.pdf">
 preprint PDF</a> ).
 <em>Proceedings of the Fifty-Fifth Annual Meeting of the North East Linguistic Society (NELS 55), Volume Two</em>, 1–11.</p>
 
-<p> [3] <strong>Göbel, Jessica</strong>, and Kathleen McCarthy. (2023).
+<p> <strong>Göbel, Jessica</strong>, and Kathleen McCarthy. (2023).
 <a href="https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/150.pdf">
 The impact of cognitive load on speech production in German-English bilinguals</a>.
 <em>Radek Skarnitzl &amp; Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences</em>, 2427–2431. Guarant International.</p>
 
-<p> [2] Hall-Lew, Lauren, Zuzana Elliott, <strong>Jessica Göbel</strong>, Claire Cowie, and Nina Markl. (2023).
+<p> Hall-Lew, Lauren, Zuzana Elliott, <strong>Jessica Göbel</strong>, Claire Cowie, and Nina Markl. (2023).
 <a href="https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/740.pdf">
 Variation in the Scottish BIT vowel: Comparing two corpora</a>.
 <em>Radek Skarnitzl &amp; Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences</em>, 3681–3685. Guarant International.</p>
 
-<p> [1] <strong>Göbel, Jessica</strong>. (2020).
+<p> <strong>Göbel, Jessica</strong>. (2020).
 <a href="http://journals.ed.ac.uk/lifespansstyles/article/view/5219/7262">
 Don’t glottal stop me now: A comparative study of /t/-glottaling in Edinburgh English in the 1970s</a>.
 <em>Lifespans &amp; Styles: Undergraduate Papers in Sociolinguistics</em>, 6(2), 32–43.</p>
